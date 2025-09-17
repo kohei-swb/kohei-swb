@@ -1,5 +1,5 @@
 <h1 align="center"> Hi👋! I'm Kohei. </h1>
-<h2 align="center">I’m a third-year Computer Science major at UBC.</h2>  
+<h2 align="center">I’m a fourth-year Computer Science major at UBC.</h2>  
   
 🔭 I’m currently working on *Investrace*, a project that visualizes investor insights using NLP and financial data<br><br>🌱 I’m currently using Python and Streamlit in my personal project, and applying SQL in a Business Analyst internship.<br><br>👯 I’m looking to collaborate on machine learning, data-driven applications, and tools that help users make smarter decisions<br><br>💼 I recently started my internship at Canopy in Singapore, focusing on data aggregation and internal analytics<br><br>📫 How to reach me: kohei.sawabe@gmail.com<br><br>⚡ Fun fact: I dream of having a dog someday. Just thinking about it motivates me to keep working hard.
 
