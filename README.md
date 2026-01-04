@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋! I'm Kohei. </h1>
 <h2 align="center">I’m a fourth-year Computer Science major at UBC.</h2>  
   
-🔭 Currently building Tegaki Recipe, an iOS app that digitizes handwritten recipes using OCR and a simple backend API.<br><br>🌱 I’m currently using Python and Streamlit in my personal project, and applying SQL in a Business Analyst internship.<br><br>👯 I’m looking to collaborate on machine learning, data-driven applications, and tools that help users make smarter decisions<br><br>💼 I recently started my internship at Canopy in Singapore, focusing on data aggregation and internal analytics<br><br>📫 How to reach me: kohei.sawabe@gmail.com<br><br>⚡ Fun fact: I dream of having a dog someday. Just thinking about it motivates me to keep working hard.
+🔭 Currently building Tegaki Recipe, an iOS app that digitizes handwritten recipes using OCR and a simple backend API.<br><br>🌱 🌱 I’m currently building Tegaki Recipe, a personal project focused on backend APIs and data processing in Python, and previously applied SQL during a Business Analyst internship.<br><br>👯 I’m looking to collaborate on data-driven applications and tools that turn raw data into usable insights for users.<br><br>💼 I completed a Business Analyst internship at Canopy in Singapore, where I built aggregated datasets and supported internal analytics workflows.<br><br>📫 How to reach me: kohei.sawabe@gmail.com<br><br>⚡ Fun fact: I dream of having a dog someday. Just thinking about it motivates me to keep working hard.
 
 ![](https://github-profile-trophy.vercel.app/?username=kohei-swb&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
